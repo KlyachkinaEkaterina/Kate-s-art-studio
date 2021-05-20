@@ -1,0 +1,83 @@
+@font-face {
+    font-family: "fingerpaint";
+    src: url(../assets/finger-paint_[allfont.ru].ttf);
+  }
+
+@font-face {
+  font-family: "actorregular";
+  src: url(../assets/actor-regular.ttf);
+}
+
+img {
+    width: 100%;
+  }
+  
+  .container {
+      width: 100vw;
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+  }
+
+
+  body {
+    background-color: #b4b4b4;   
+  }
+
+  .gallery {
+    /* width: 100vw; */
+    display: flex; 
+    flex-direction: row; 
+  }
+
+  .gallery2 {
+    /* width: 100vw; */
+    display: flex; 
+    flex-direction: row;  
+  }
+
+  .example {
+    width: 20vw;
+    margin-bottom: 20px;
+    position: relative;
+    left: 200px;
+    top: 20px;
+  }
+
+  .example2 {
+    width: 22vw;
+    margin-bottom: 20px;
+    position: relative;
+    left: 650px;
+    top: -120px;
+    
+    
+  }
+
+
+  .example3 {
+    width: 25vw;
+    margin-bottom: 20px;
+    position: relative;
+    left: 380px;
+    top: -120px;
+  }
+  .example4 {
+    width: 35vw;
+    margin-bottom: 20px;
+    position: relative;
+    left: 900px;
+    top: -360px;
+   
+    
+  }
+
+  
+  
+  
+  
+     
+  
+  
+  
+  
